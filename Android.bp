@@ -12,6 +12,7 @@ android_app_import {
 	name: "MotoSignatureApp",
 	owner: "motorola",
 	apk: "proprietary/system/app/MotoSignatureApp/MotoSignatureApp.apk",
+	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
