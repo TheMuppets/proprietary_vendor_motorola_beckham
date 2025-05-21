@@ -438,7 +438,6 @@ PRODUCT_PACKAGES += \
     ModService \
     MotCamera2 \
     ProjectorApp \
-    ims \
     com.motorola.motosignature \
     charge_only_mode \
     android.hardware.biometrics.fingerprint@2.1-fpcservice \
