@@ -10938,6 +10938,7 @@ cc_prebuilt_binary {
                 "proprietary/vendor/bin/hw/motorola.hardware.health@1.0-service",
             ],
             shared_libs: [
+                "libmothealth_shim",
                 "libbase_shim",
                 "libhidlbase-v32",
                 "libhidltransport",
