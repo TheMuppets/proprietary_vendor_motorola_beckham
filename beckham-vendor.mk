@@ -94,6 +94,7 @@ PRODUCT_PACKAGES += \
     sensors.iio \
     sensors.rp \
     sensors.ssc \
+    audio.primary.sdm660-moto \
     camera.sdm660 \
     libSonyDefocus \
     libS5k2l7Pdaf \
@@ -104,6 +105,7 @@ PRODUCT_PACKAGES += \
     libactuator_mot_ak7371 \
     libadsp_hvx_callback_skel \
     libadsp_hvx_stub \
+    libaudioroute-moto \
     libchromatix_imx386_4k_video_3a \
     libchromatix_imx386_common \
     libchromatix_imx386_cpp_hfr_120 \
@@ -399,6 +401,7 @@ PRODUCT_PACKAGES += \
     libmmqjpegdma \
     libmot_afd \
     libmot_lux_standardization \
+    libmotaudioutils \
     libmotimager_utils \
     libpn553_fw \
     libqomx_core \
@@ -417,6 +420,9 @@ PRODUCT_PACKAGES += \
     libscveObjectTracker_stub \
     libscvePanorama \
     libscvePanorama_lite \
+    libtinyalsa-moto \
+    libtinycompress_vendor \
+    libunshorten \
     libzaf_algs \
     libzaf_core \
     vendor.qti.hardware.qteeconnector@1.0-impl \
